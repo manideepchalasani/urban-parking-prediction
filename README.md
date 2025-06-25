@@ -38,13 +38,16 @@ Finding real-time parking in metropolitan cities remains a major issue, especial
 ---
 
 ## Dataset
-- Public urban parking datasets (e.g., SFpark, Melbourne Smart Parking)
+- Public urban parking datasets
+- Cleaned_Activites_Data
+- Cleaned_Parking_Zones
+- Cleaned_Weather 
 - Features include:
   - Timestamp
   - Occupancy status
   - Sensor location
   - Day of week, time of day
-  - Weather (optional)
+  - Weather 
 
 ---
 
